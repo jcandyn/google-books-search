@@ -1,0 +1,14 @@
+.jumbotron {
+    background: url("https://cdn.pixabay.com/photo/2018/03/21/10/01/desktop-3246124_1280.jpg");
+    background-repeat: none;
+    background-size: cover;
+    background-position-x: 0px;
+    background-position-y: 1300px;
+
+}
+
+.text-center {
+    text-shadow: 2px 2px 2px rgb(130, 130, 130);
+    color: rgb(231,231,231);
+    /* font-weight: 700; */
+}
